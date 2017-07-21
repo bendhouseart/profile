@@ -3,5 +3,32 @@
 </style>
 font-family: 'Homemade Apple', cursive;
 
+body, html {
+	height: 100%;
+	font-family: 'Homemade Apple', cursive;
+	color: #fff;
+	margin: 0;
+}
 
+.link {
+	font-size: 30px;
+	background-color: #fff;
+	padding: 20px;
+	color: #333;
+	border-radius: 20px;
+}
+
+.wrapper {
+	font-family: 'Homemade Apple', cursive;
+	height: 30vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 250px;
+	flex-direction: column;
+	background: #000;
+	border: solid 1.0px;
+	width: 40vh;
+}
+	
 
